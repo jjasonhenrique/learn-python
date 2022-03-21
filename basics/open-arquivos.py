@@ -1,4 +1,4 @@
-text = "Jornada Python 2\nTeste QUebra"
+text = "Jornada Python 2\nTeste Quebra"
 
 arquivo = open("//Users//jason.rodrigues//Documents//DevOps//Github//learn-python//dados//teste.txt", "a")
 
